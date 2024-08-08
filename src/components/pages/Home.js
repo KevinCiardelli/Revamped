@@ -1,13 +1,14 @@
-import React from 'react';
-import HomePage from '../HomePage';
-import '../../App.css';
+import '../../App.css'
+import HomePage from '../HomePage'
+import React from 'react'
 
 function Home() {
-  return (
-    <>
-      <HomePage />
-    </>
-  );
+    return (
+        <>
+            <HomePage />
+        </>
+    )
 }
+
 
 export default Home;
